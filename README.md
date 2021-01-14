@@ -2,7 +2,7 @@
 Collect paper about ground segmentation in 3D point cloud. 
 
 ## Geometry Based
-* Real-time Road Detection in 3D Point Clouds using Four Directions Scan Line Gradient Criterion [pdf](https://www.semanticscholar.org/paper/Real-time-Road-Detection-in-3-D-Point-Clouds-using-Li-QingquanLi/fb3ef3a51e62baca7d8a28aeb61c684c68c5ce01)
+* Real-time Road Detection in 3D Point Clouds using Four Directions Scan Line Gradient Criterion [[pdf](https://www.semanticscholar.org/paper/Real-time-Road-Detection-in-3-D-Point-Clouds-using-Li-QingquanLi/fb3ef3a51e62baca7d8a28aeb61c684c68c5ce01)]
 
 * Fast Segmentation of 3D Point Clouds for Ground Vehicles [pdf](http://ieeexplore.ieee.org/document/5548059/) [code](https://github.com/lorenwel/linefit_ground_segmentation)
 
