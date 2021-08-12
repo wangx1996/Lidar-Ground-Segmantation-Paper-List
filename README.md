@@ -33,6 +33,7 @@ Collect paper about ground segmentation in 3D point cloud.
 * Dynamic Road Surface Detection Method based on 3D Lidar [ [pdf](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=http%3A%2F%2Fwww.csroc.org.tw%2Fjournal%2FJOC30_6%2FJOC3006-27.pdf) ]
 
 * On Enhancing Ground Surface Detection from Sparse Lidar PointCloud [[pdf](https://ieeexplore.ieee.org/document/8968135/)]
+* Patchwork: Concentric Zone-based Region-wise Ground Segmentation with Ground Likelihood Estimation Using a 3D LiDAR Sensor [[pdf](https://urserver.kaist.ac.kr/publicdata/patchwork/RA_L_21_patchwork_final_submission.pdf)][[code](https://github.com/LimHyungTae/patchwork)]
 
 #### occupancy map
 
