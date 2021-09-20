@@ -34,7 +34,7 @@ Collect paper about ground segmentation in 3D point cloud.
 
 * On Enhancing Ground Surface Detection from Sparse Lidar PointCloud [[pdf](https://ieeexplore.ieee.org/document/8968135/)]
 * Patchwork: Concentric Zone-based Region-wise Ground Segmentation with Ground Likelihood Estimation Using a 3D LiDAR Sensor [[pdf](https://urserver.kaist.ac.kr/publicdata/patchwork/RA_L_21_patchwork_final_submission.pdf)][[code](https://github.com/LimHyungTae/patchwork)]
-* Fast Ground Segmentation for 3D LiDAR Point Cloud Based on Jump-Convolution-Process [[pdf](https://www.mdpi.com/2072-4292/13/16/3239/xml) [code](https://github.com/wangx1996/Fast-Ground-Segmentation-Based-on-JPC)]
+* Fast Ground Segmentation for 3D LiDAR Point Cloud Based on Jump-Convolution-Process [[pdf](https://www.mdpi.com/2072-4292/13/16/3239/xml) [[code](https://github.com/wangx1996/Fast-Ground-Segmentation-Based-on-JPC)]
 
 #### occupancy map
 
